@@ -65,8 +65,7 @@ The dataset contains social media posts along with sentiment labels and addition
 * Classification Results
 
 ## Results
-
-The sentiment classification model successfully categorized text data into Positive, Negative, and Neutral classes. The analysis provided insights into public sentiment and demonstrated the effectiveness of NLP techniques for text classification.
+The sentiment classification model was trained using TF-IDF Vectorization and Multinomial Naive Bayes. Due to the large number of sentiment categories and limited samples per class, the model achieved modest predictive performance. However, the project successfully demonstrates the complete NLP workflow including text preprocessing, feature extraction, sentiment visualization, and sentiment classification.
 
 ## Conclusion
 
